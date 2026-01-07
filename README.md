@@ -22,4 +22,4 @@ This project is an IoT-based automatic fish feeder using ESP32.
 - ESP32Servo Library
 
 ## Author
-Harikesh
+Ch Harikesh Reddy
